@@ -1,0 +1,16 @@
+13:33:35.460 INFO  AUTOMATION - Before All
+13:33:35.523 INFO  AUTOMATION - Before: Crear una cuenta nueva de usuario para luego loguearse
+13:33:38.898 INFO  AUTOMATION - Esperando que la pagina NewLoginPage cargue
+13:33:38.931 INFO  AUTOMATION - La pagina NewLoginPage ha cargado satisfactoriamente
+13:33:38.932 INFO  AUTOMATION - Vamos a dar click en la opcion Registrer para ingresar a crear una cuenta
+13:33:39.510 INFO  AUTOMATION - Verificando los campos del formulario
+13:33:39.686 INFO  AUTOMATION - Completamos datos del formulario
+13:33:40.255 INFO  AUTOMATION - Vamos a dar click en registrar
+13:33:40.694 INFO  AUTOMATION - Esperar que cargue el titulo despues de un registro Exitoso
+13:33:40.694 INFO  AUTOMATION - Esperando que la pagina NewLoginPage cargue
+13:33:40.713 INFO  AUTOMATION - La pagina NewLoginPage ha cargado satisfactoriamente
+13:33:40.713 INFO  AUTOMATION - Verificamos el mensaje de exito de la cuenta nueva
+13:33:40.751 INFO  AUTOMATION - Vamos a iniciar sesión con la cuenta nueva
+13:33:42.226 INFO  AUTOMATION - Verificamos que iniciamos sesion con la cuenta nueva
+13:33:42.270 INFO  AUTOMATION - After: Crear una cuenta nueva de usuario para luego loguearse Status: PASSED
+13:33:42.504 INFO  AUTOMATION - After All
