@@ -20,7 +20,7 @@ public class DatosUser {
 
         firstName = faker.name().firstName();
         lastName = faker.name().lastName();
-        address = faker.address().fullAddress();
+        address = faker.internet().emailAddress();
         city = faker.address().city();
         state = faker.address().state();
         zipCode = faker.address().zipCode();
